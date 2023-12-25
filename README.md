@@ -14,7 +14,7 @@ Chatbot based on dataset of questions in js. Q&A system, not automated. Chatbot 
 
 # License
 
---MIT License (OpenSOurce 100%)
+--Apache Licence 2.0 
 
 # How to use
 
